@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Affinity Studio
+Comment=Professional Creative Software (Legacy Fix)
+Exec=HOME_DIR/bin/affinity-legacy-launcher
+Icon=HOME_DIR/.local/share/icons/affinity.svg
+Terminal=false
+Type=Application
+Categories=Graphics;Design;
+StartupNotify=true
